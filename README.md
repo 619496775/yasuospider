@@ -15,7 +15,7 @@ python网络数据采集爬虫项目
 * [第 1 章 初见网络爬虫](#初见网络爬虫)
 * [第 2 章 复杂 HTML 解析](#html)
 * [第 3 章 开始采集](#开始采集)
-* [第 4 章 使用 API](#API)
+* [第 4 章 使用 API](#api)
 
 
 ### 初见网络爬虫
@@ -25,7 +25,7 @@ python网络数据采集爬虫项目
 |1|`![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")`|![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
 |2|`![][foryou]`|![][foryou]
 
-### 复杂网页解析
+<h3 id="html"> 复杂网页解析</h3>
 ------------
 
 
@@ -33,7 +33,7 @@ python网络数据采集爬虫项目
 --------------
 
 
-### API
+<h3 id="api"> 使用API</h3>
 -------------
 
 -----------------------
