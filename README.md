@@ -20,7 +20,10 @@ python网络数据采集爬虫项目
 
 ### 初见网络爬虫
 -------------
-
+|#|语法|效果|
+|---|---|----
+|1|`![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")`|![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
+|2|`![][foryou]`|![][foryou]
 
 ### 复杂HTML解析
 ------------
