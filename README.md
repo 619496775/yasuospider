@@ -1,4 +1,12 @@
-# yasuospider
+###spider
 python网络数据采集爬虫项目
-<a href="baidu.com">a</a>
-[![weibo-logo]](http://weibo.com/linpiaochen)
+
+
+****
+	
+|Author|xuyasuo|
+|---|---
+|E-mail|x619496775@gmail.com
+
+
+****
