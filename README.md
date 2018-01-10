@@ -35,3 +35,6 @@ python网络数据采集爬虫项目
 
 ### 使用API
 -------------
+
+-----------------------
+[foryou]:https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
