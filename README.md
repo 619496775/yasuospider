@@ -29,12 +29,11 @@ python网络数据采集爬虫项目
 ------------
 
 
-### 开始采集 id=html
---------------
+### 开始采集 
 
 
 <h3 id="api"> 使用API</h3>
--------------
+
 
 -----------------------
 [foryou]:https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
