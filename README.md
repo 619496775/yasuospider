@@ -25,10 +25,11 @@ python网络数据采集爬虫项目
 |1|`![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")`|![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
 |2|`![][foryou]`|![][foryou]
 
-<h3 id="html"> 复杂网页解析</h3>
+<h3 id="html"> 复杂HTML解析</h3>
 
 ************
-
+'''使用正则表达式把浏览器发出的post请求头替换为字典的方法：
+'''
 
 
 ### 开始采集 
